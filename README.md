@@ -1,4 +1,6 @@
 # nnTool
+### First off, please don't use this. It's really bad and I won't be providing any support for it. With that said, here is the rest of the readme:
+
 Creates neural networks for processing3 
 
 Examples are in examples.
